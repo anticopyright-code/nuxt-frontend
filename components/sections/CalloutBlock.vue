@@ -25,7 +25,7 @@
               </p>
             </v-col>
             <v-col align-self="center" cols="12" sm="5" class="text-center">
-              <v-btn x-large color="primary" rounded>Callout Button</v-btn>
+              <v-btn x-large color="primary" rounded>Daftar</v-btn>
             </v-col>
           </v-row>
         </v-col>
