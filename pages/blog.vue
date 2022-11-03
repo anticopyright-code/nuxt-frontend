@@ -30,20 +30,18 @@
                     >Admin</v-btn
                   >
                   <v-btn text small disabled class="px-0"
-                    >October 13, 2020</v-btn
+                    >November 03, 2022</v-btn
                   >
                 </v-card-subtitle>
                 <v-card-text
                   class="title font-weight-bold mt-3 pb-0 text--primary"
                   style="line-height: 1.8rem"
                 >
-                  Check out the new mansion we got for our eSports team!
+                  Yellow Earth!
                 </v-card-text>
                 <v-card-text class="text--primary">
-                  An online streamer, also known as a live streamer, internet
-                  streamer, or streamer, is a person who broadcasts themself
-                  online through a live stream or pre-recorded video. The scope
-                  of online streamers has grown to includ...
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua....
                   <v-btn href="#" small text color="primary">Read More</v-btn>
                 </v-card-text>
 
